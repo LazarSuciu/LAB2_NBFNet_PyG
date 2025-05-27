@@ -1,0 +1,6 @@
+image_name="pyg_dev_nbfnet_new"
+image_tag="v0.1"
+container_name="pyg_dev_nbfnet_new"
+src_folder="./workspace"
+data_folder="/mnt/data/lazar/data"
+requirements_file="./workspace/requirements.txt"
